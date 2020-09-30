@@ -1,0 +1,38 @@
+p{
+width: 500px;
+margin: 0;
+font-family: Arial, Helvetica, sans-serif;
+background: white;
+}
+
+h1 {
+text-align: center;
+}
+
+h2{
+margin: 0;	
+font-size: 20px;
+}
+
+
+h3{
+font-size: 20px;
+margin-top: 50px;
+}
+
+.right{
+float: right;	
+}
+
+.top{
+margin-top: 100px;	
+}
+
+img{
+float: right;	
+}
+
+body{
+background-color: lightblue;
+text-decoration-color: red;
+}
